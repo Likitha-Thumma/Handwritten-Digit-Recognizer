@@ -121,35 +121,27 @@ Draw a digit using your mouse and click **Predict**.
 
 ## 📸 Output
 
+## 📸 Output
+
 ### Home Screen
 
-```markdown
 ![Home](Results/home.png)
-```
 
 ---
 
 ### Draw a Digit
 
-```markdown
 ![Drawing](Results/drawing1.png)
-```
 
-```markdown
 ![Drawing](Results/drawing2.png)
-```
+
 ---
 
 ### Prediction
 
-```markdown
 ![Prediction](Results/prediction1.png)
-```
 
-```markdown
 ![Prediction](Results/prediction2.png)
-```
-
 
 ---
 
