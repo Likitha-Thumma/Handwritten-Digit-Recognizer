@@ -121,8 +121,6 @@ Draw a digit using your mouse and click **Predict**.
 
 ## 📸 Output
 
-## 📸 Output
-
 ### Home Screen
 
 ![Home](Results/home.png)
@@ -133,15 +131,11 @@ Draw a digit using your mouse and click **Predict**.
 
 ![Drawing](Results/drawing1.png)
 
-![Drawing](Results/drawing2.png)
-
 ---
 
 ### Prediction
 
 ![Prediction](Results/prediction1.png)
-
-![Prediction](Results/prediction2.png)
 
 ---
 
